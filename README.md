@@ -24,9 +24,6 @@ This project was created and published by me as part of my learnings at Lighthou
 
 ## Documentation
 
-Description: A mini clone of the [Lodash](https://lodash.com) library.
-Author: Abdullah Ahmad Zabir (github.com/zabir-aa)
-
 The following functions are currently implemented:
 
 * `assertArraysEqual(array1, array2)`: Checks the contents of two arrays and 
