@@ -3,10 +3,10 @@
     "chai": "^4.3.4",
     "mocha": "^9.0.3"
   },
-  "name": "lotide",
+  "name": "@zabir.aa/lotide",
   "version": "1.0.0",
-  "description": "lotide library",
-  "main": "assertArraysEqual.js",
+  "description": "A mini clone of the [Lodash](https://lodash.com) library.",
+  "main": "README.md",
   "directories": {
     "test": "test"
   },
@@ -102,10 +102,18 @@
     "type": "git",
     "url": "git+https://github.com/zabir-aa/lotide.git"
   },
-  "author": "",
+  "author": "Abdullah Ahmad Zabir",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zabir-aa/lotide/issues"
   },
-  "homepage": "https://github.com/zabir-aa/lotide#readme"
+  "homepage": "https://github.com/zabir-aa/lotide#readme",
+  "keywords": [
+    "lodash",
+    "lite",
+    "learning",
+    "lighthouseLabs",
+    "Ottawa",
+    "zabir"
+  ]
 }
