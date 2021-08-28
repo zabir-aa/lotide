@@ -26,7 +26,7 @@ This project was created and published by me as part of my learnings at Lighthou
 
 The following functions are currently implemented:
 
-* `assertArraysEqual(array1, array2)`: Checks the contents of two arrays and 
+* `assertArraysEqual(array1, array2)`: Checks the contents of two arrays and returns true if they are equal. Returns false if not equal.
 * `assertEqual(actual, expected)`: Checks the contents of two variables and prints out a banner stating if they are equal or not.
 * `assertObjectsEqual(actual, expected)`: Checks the contents of two objects and prints out a banner stating if the contents are equal or not.
 * `countLetters(text)`: Checks the contents of a string and stores the number of occurences of each letter in an object.
